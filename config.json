@@ -1,0 +1,11 @@
+{
+  "store_name": "Cloud B Convenience",
+  "theme": {
+    "primary": "#ffffff",
+    "accent": "#bfa58a",
+    "dark": "#7b3f00"
+  },
+  "logo": "assets/CLOUBLOGO.png",
+  "version": "1.0.0",
+  "warning_threshold": 10
+}
